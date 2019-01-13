@@ -1,0 +1,21 @@
+{
+  "name": "web-audio-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "file2buffer": "http-server file2buffer/",
+    "basic-controls": "http-server basic-controls/",
+    "dft": "http-server dft/",
+    "frequency2color": "http-server frequency2color/",
+    "sin-wave": "http-server sin-wave/",
+    "oscilator": "http-server oscilator/",
+    "color-circle": "http-server color-circle/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
